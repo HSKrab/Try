@@ -32,6 +32,7 @@ def init():
     return dot,
 
 
+# Again
 ani = animation.FuncAnimation(fig=fig, func=update, frames=N,
                               init_func=init, interval=1000/N, blit=True, repeat=True)
 plt.show()
