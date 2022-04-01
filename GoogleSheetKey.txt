@@ -1,0 +1,9 @@
+
+Deployment ID
+AKfycbxc_8426x9wreSaAzDxaokWlArXM8_ECDh-VznkxZGar3rIozGAZx8nVDfZac8T0JlLgw
+
+Web app
+https://script.google.com/macros/s/AKfycbxc_8426x9wreSaAzDxaokWlArXM8_ECDh-VznkxZGar3rIozGAZx8nVDfZac8T0JlLgw/exec
+
+PUSHLOG token
+DkdBM9GGEx3LAFe
