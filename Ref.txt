@@ -1,0 +1,2 @@
+NumPy、pandas、Matplotlib をpipでインストールする方法
+https://gammasoft.jp/blog/install-numpy-pandas-matplotlib-by-pip/
